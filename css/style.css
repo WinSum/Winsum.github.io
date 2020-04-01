@@ -439,7 +439,7 @@ p.banp.mt-3 {
 	-ms-transition: 0.5s all;
 }
 section.services {
-    padding: 5em 12em;
+    padding: 5em 6em;
     text-align: left;
     background: #fff;
    border-top: solid 6px #f4f4f4;
@@ -469,7 +469,7 @@ ul.list-unstyled li {
     border-radius: 50%;
 }
 .news {
-    padding: 5em 12em;
+    padding: 5em 6em;
     background: #fff;
    border-top: solid 6px #f4f4f4;
 }
@@ -533,7 +533,7 @@ p.main_p {
     font-weight: 300;
 }
 section.slide-wrapper {
-    padding: 5em 12em;
+    padding: 5em 6em;
     text-align: left;
     background: #fff;
 }
